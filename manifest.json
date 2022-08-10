@@ -1,6 +1,6 @@
 {
-    "name": "chin_ming_home",
-    "short_name": "chin_ming_home",
+    "name": "chin_ming",
+    "short_name": "chin_ming",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
